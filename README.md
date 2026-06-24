@@ -19,7 +19,7 @@
 `PostgreSQL` `MySQL` `Advanced SQL` `CTEs` `Window Functions`
 
 **Other**
-`Advanced Excel` `Power Pivot` `Docker` `OpenCV` `PaddleOCR`
+`Advanced Excel` `Power Pivot`  `OpenCV` `PaddleOCR`
 
 ---
 
