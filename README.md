@@ -71,10 +71,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Krishna Chethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-
----
-
 *Open to Data Analyst, Data Engineer, and BI Developer roles. Feel free to reach out!*
