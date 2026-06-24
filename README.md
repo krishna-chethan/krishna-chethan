@@ -28,7 +28,7 @@
 ### 📊 D2C Beauty & Personal Care — Investor Dashboard (Power BI)
 > Multi-page investor-ready Power BI report for a D2C brand — star schema data model, date-sensitive COGS DAX logic, and 4-page report for CEO/CFO/CMO audiences.
 
-🔗 [View Repository](https://github.com/YOUR_USERNAME/d2c-beauty-powerbi-dashboard)
+🔗 [View Repository](https://github.com/krishna-chethan/d2c-beauty-powerbi-dashboard)
 
 ---
 
